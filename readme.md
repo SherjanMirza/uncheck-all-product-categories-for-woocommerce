@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/social-preview.png" alt="Uncheck All Product Categories for WooCommerce by Sherjan Mirza" width="720">
+</p>
 #Uncheck all product categories for WooCommerce
 
 A small plugin, this one-click "Uncheck all" one will add a button on WooCommerce product category checklists. Works for Edit, Quick Edit, and Bulk Edit screens.
