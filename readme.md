@@ -3,12 +3,18 @@
 A small plugin, this one-click "Uncheck all" one will add a button on WooCommerce product category checklists. Works for Edit, Quick Edit, and Bulk Edit screens.
 
 --- 
+## 🖼️ Demo
 
 ## ✨ Features
 - Adds "Uncheck All" to the Product Categories meta box on the product edit screen.
+![Uncheck All Product Categories – Edit Screen](assets/screenshot-1.png)
 - Works on Quick Edit and Bulk Edit for multiple products.
+![Uncheck All Product Categories – Quick Edit](assets/screenshot-2.png)
 - Lightweight: it will load only on WooCommerce product admin pages.
 - No settings, no clutter; just one clean productivity booster.
+Here’s a quick preview in action 👇
+
+![Demo: Uncheck all in action](assets/demo.gif)
 
 ---
 
